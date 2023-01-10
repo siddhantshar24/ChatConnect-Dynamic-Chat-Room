@@ -19,4 +19,4 @@ Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
 Use the UI page to create a new chat window and connect with one another across the application. Messages sent across are shown with appropriate name provided during creation of a new user in the chat room.
 To quit the chat one has to close the window and the chat connection is terminated afterwards.
 
-Thanks
+Thanks.
