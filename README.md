@@ -1,4 +1,4 @@
-# Chat-Room-NodeJS-Socket-io-Application
+# ChatConnect: Dynamic Chat Room
 NodeJS Project for a Chat Room built using Socket.io library with having NodeJS in the backend and having HTML, CSS as the frontend for the project.
 
 Technologies used: NodeJS, JavaScript, HTML, CSS, Socket.io.
